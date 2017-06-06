@@ -1,2 +1,2 @@
 // Databricks notebook source
-//bland canvas 
+//blank canvas 
